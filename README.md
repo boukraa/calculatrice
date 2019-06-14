@@ -1,6 +1,7 @@
 # calcul
 
-A new Flutter project.
+A simple calculator using flutter 
+![](Screenshot_20190614-130758[1].jpg)
 
 ## Getting Started
 
